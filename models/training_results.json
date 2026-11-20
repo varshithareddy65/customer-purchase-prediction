@@ -1,0 +1,11 @@
+{
+    "best_iteration": 315,
+    "validation_roc_auc": 0.6989726327321278,
+    "validation_pr_auc": 0.3854235288829332,
+    "selected_threshold": 0.24409076905246754,
+    "test_roc_auc": 0.6865529516886115,
+    "test_pr_auc": 0.40177842882016146,
+    "test_precision": 0.3862755726876669,
+    "test_recall": 0.511251480457955,
+    "test_f1": 0.4400624086130421
+}
